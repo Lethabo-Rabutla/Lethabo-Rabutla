@@ -1,4 +1,10 @@
 ![Design_and_Development](https://github.com/Lethabo-Rabutla/Lethabo-Rabutla/blob/main/Lethabo_Rabutla.jpg)
+# 💫 Hi there, I'm Lethabo
+
+A passionate final-year student, currently pursuing a Diploma in Computer Science, with a strong inclination towards integrating innovation with technology. Eager to apply my expertise in practical scenarios through an internship opportunity. Proficient in developing dynamic web solutions using a wide array of languages such as Java, JavaScript, HTML, and CSS.
+
+Furthermore, I've refined my skills by leading backend projects utilizing Python and PostgreSQL. Additionally, I excel in mobile app development with Kotlin, and possess a robust proficiency in Java and Java Enterprise Edition (JEE) for crafting scalable enterprise-level applications. Well-versed in database management systems including Oracle SQL. Motivated by the challenge of unraveling complex problems and thrive in the intricacies of software engineering/developer challenges.<br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/www.lethaboig.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/lethabo-rabutla-74b527288/) 
