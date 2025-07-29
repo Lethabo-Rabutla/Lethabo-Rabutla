@@ -1,9 +1,13 @@
 ![Design_and_Development](https://github.com/Lethabo-Rabutla/Lethabo-Rabutla/blob/main/Lethabo_Rabutla.jpg)
 # 💫 Hi there, I'm Lethabo
 
-A passionate final-year student, currently pursuing a Diploma in Computer Science, with a strong inclination towards integrating innovation with technology. Eager to apply my expertise in practical scenarios through an internship opportunity. Proficient in developing dynamic web solutions using a wide array of languages such as Java, JavaScript, HTML, and CSS.
+A motivated and experienced Computer Science graduate from Tshwane University of Technology, having completed all academic requirements and Work Integrated Learning (WIL), and currently awaiting graduation.
 
-Furthermore, I've refined my skills by leading backend projects utilizing Python and PostgreSQL. Additionally, I excel in mobile app development with Kotlin, and possess a robust proficiency in Java and Java Enterprise Edition (JEE) for crafting scalable enterprise-level applications. Well-versed in database management systems including Oracle SQL. Motivated by the challenge of unraveling complex problems and thrive in the intricacies of software engineering/developer challenges.<br>
+I bring hands-on experience in software development, mobile app creation, and backend systems — developed through both academic projects and real workplace exposure. I’ve worked with languages like Java, Python, and JavaScript, and built full-stack applications using technologies such as PostgreSQL, React, and Java EE. I’m also proficient in web technologies (HTML, CSS) and database systems including Oracle SQL.
+
+My passion lies in data engineering, where I aim to combine my technical background with my curiosity for data-driven problem-solving. I enjoy building and optimizing data pipelines, working with structured data, and contributing to solutions that make information useful and actionable.
+
+I’m now ready to contribute to a professional team, apply what I’ve learned, and continue growing in the field of technology — especially within data-focused roles.
 
 
 ## 🌐 Socials:
